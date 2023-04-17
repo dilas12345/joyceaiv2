@@ -1,0 +1,116 @@
+PID: 7114 START: 1681741621591158784 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://github.com/lukalabs/cakechat
+
+PID: 7114 START: 1681741621607564032 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'init'] with debug: : export GIT_DIR=/home/sftas/development/cakechat/bin/.repo/manifests.git
+: git init 1>| 2>|
+
+PID: 7114 END: 1681741621612068608 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'init'] with debug: : export GIT_DIR=/home/sftas/development/cakechat/bin/.repo/manifests.git
+: git init 1>| 2>|
+
+PID: 7114 START: 1681741621613213440 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 7114 END: 1681741621615381504 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 7114 START: 1681741621615950592 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /home/sftas/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 7114 END: 1681741621618109184 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /home/sftas/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 7114 START: 1681741621618843136 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.smudge', 'git-lfs smudge --skip -- %f'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all filter.lfs.smudge git-lfs smudge --skip -- %f 1>| 2>|
+
+PID: 7114 END: 1681741621621356800 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.smudge', 'git-lfs smudge --skip -- %f'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all filter.lfs.smudge git-lfs smudge --skip -- %f 1>| 2>|
+
+PID: 7114 START: 1681741621621595648 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.process', 'git-lfs filter-process --skip'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all filter.lfs.process git-lfs filter-process --skip 1>| 2>|
+
+PID: 7114 END: 1681741621623855872 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'filter.lfs.process', 'git-lfs filter-process --skip'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all filter.lfs.process git-lfs filter-process --skip 1>| 2>|
+
+PID: 7114 START: 1681741621624090624 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--unset-all', 'core.bare'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --unset-all core.bare 1>| 2>|
+
+PID: 7114 END: 1681741621626390016 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--unset-all', 'core.bare'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --unset-all core.bare 1>| 2>|
+
+PID: 7114 START: 1681741621626669056 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.url', 'https://github.com/lukalabs/cakechat'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all remote.origin.url https://github.com/lukalabs/cakechat 1>| 2>|
+
+PID: 7114 END: 1681741621628969216 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.url', 'https://github.com/lukalabs/cakechat'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all remote.origin.url https://github.com/lukalabs/cakechat 1>| 2>|
+
+PID: 7114 START: 1681741621629220608 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.fetch', '+refs/heads/*:refs/remotes/origin/*'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/* 1>| 2>|
+
+PID: 7114 END: 1681741621631743488 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'remote.origin.fetch', '+refs/heads/*:refs/remotes/origin/*'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all remote.origin.fetch +refs/heads/*:refs/remotes/origin/* 1>| 2>|
+
+PID: 7114 START: 1681741621631991040 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'ls-remote', '-q', '--symref', '--exit-code', 'origin', 'HEAD'] with debug: : git ls-remote -q --symref --exit-code origin HEAD 1>| 2>|
+
+PID: 7114 END: 1681741627760108800 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'ls-remote', '-q', '--symref', '--exit-code', 'origin', 'HEAD'] with debug: : git ls-remote -q --symref --exit-code origin HEAD 1>| 2>|
+
+PID: 7114 START: 1681741627760833536 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'manifest.platform', 'auto'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all manifest.platform auto 1>| 2>|
+
+PID: 7114 END: 1681741627763485440 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--replace-all', 'manifest.platform', 'auto'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --replace-all manifest.platform auto 1>| 2>|
+
+PID: 7114 START: 1681741627764070144 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/master:refs/remotes/origin/master', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/sftas/development/cakechat/bin/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/master:refs/remotes/origin/master +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 7114 END: 1681741630265755648 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/master:refs/remotes/origin/master', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_OBJECT_DIRECTORY=/home/sftas/development/cakechat/bin/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/master:refs/remotes/origin/master +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 7114 START: 1681741630266244608 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'pack-refs', '--all', '--prune'] with debug: : git pack-refs --all --prune 1>| 2>|
+
+PID: 7114 END: 1681741630269851648 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'pack-refs', '--all', '--prune'] with debug: : git pack-refs --all --prune 1>| 2>|
+
+PID: 7114 START: 1681741630270381056 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'rev-parse', '--verify', 'refs/remotes/origin/master^0'] with debug: : git rev-parse --verify refs/remotes/origin/master^0 1>| 2>|
+
+PID: 7114 END: 1681741630272799232 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'rev-parse', '--verify', 'refs/remotes/origin/master^0'] with debug: : git rev-parse --verify refs/remotes/origin/master^0 1>| 2>|
+
+PID: 7114 START: 1681741630273335040 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'read-tree', '--reset', '-u', '-v', 'HEAD'] with debug: 
+: cd /home/sftas/development/cakechat/bin/.repo/manifests
+: git read-tree --reset -u -v HEAD
+
+PID: 7114 END: 1681741630293509120 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'read-tree', '--reset', '-u', '-v', 'HEAD'] with debug: 
+: cd /home/sftas/development/cakechat/bin/.repo/manifests
+: git read-tree --reset -u -v HEAD
+
+PID: 7114 START: 1681741630293634560 :: load refs /home/sftas/development/cakechat/bin/.repo/manifests.git
+
+PID: 7114 END: 1681741630293941248 :: load refs /home/sftas/development/cakechat/bin/.repo/manifests.git
+
+PID: 7114 START: 1681741630294177024 :: scan refs /home/sftas/development/cakechat/bin/.repo/manifests.git
+
+PID: 7114 END: 1681741630294236160 :: scan refs /home/sftas/development/cakechat/bin/.repo/manifests.git
+
+PID: 7114 START: 1681741630294422016 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'update-ref', 'refs/heads/default', '844507281b30d81b3fe3674895fe27826dba8438'] with debug: : git update-ref refs/heads/default 844507281b30d81b3fe3674895fe27826dba8438 1>| 2>|
+
+PID: 7114 END: 1681741630297169408 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'update-ref', 'refs/heads/default', '844507281b30d81b3fe3674895fe27826dba8438'] with debug: : git update-ref refs/heads/default 844507281b30d81b3fe3674895fe27826dba8438 1>| 2>|
+
+PID: 7114 START: 1681741630297518592 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'symbolic-ref', 'HEAD', 'refs/heads/default'] with debug: : git symbolic-ref HEAD refs/heads/default 1>| 2>|
+
+PID: 7114 END: 1681741630300245504 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'symbolic-ref', 'HEAD', 'refs/heads/default'] with debug: : git symbolic-ref HEAD refs/heads/default 1>| 2>|
+
+PID: 7114 START: 1681741630300691456 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7114 END: 1681741630302695168 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7114 END: 1681741630302808576 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://github.com/lukalabs/cakechat
+
+PID: 7218 START: 1681741684245238784 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://github.com/lukalabs/cakechat
+
+PID: 7218 START: 1681741684255884544 :git command None ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 7218 END: 1681741684258190848 :git command None ['git', 'config', '--file', '/home/sftas/development/cakechat/bin/.repo/manifests.git/config', '--includes', '--null', '--list'] with debug: : git config --file /home/sftas/development/cakechat/bin/.repo/manifests.git/config --includes --null --list 1>| 2>|
+
+PID: 7218 START: 1681741684258497792 :: parsing /home/sftas/.gitconfig
+
+PID: 7218 END: 1681741684258612480 :: parsing /home/sftas/.gitconfig
+
+PID: 7218 START: 1681741684260934912 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/master:refs/remotes/origin/master', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_DIR=/home/sftas/development/cakechat/bin/.repo/manifests.git
+: export GIT_OBJECT_DIRECTORY=/home/sftas/development/cakechat/bin/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/master:refs/remotes/origin/master +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 7218 END: 1681741685450953984 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'fetch', '--quiet', 'origin', '--recurse-submodules=no', '--tags', '+refs/heads/master:refs/remotes/origin/master', '+refs/tags/*:refs/tags/*'] with debug: : export GIT_DIR=/home/sftas/development/cakechat/bin/.repo/manifests.git
+: export GIT_OBJECT_DIRECTORY=/home/sftas/development/cakechat/bin/.repo/manifests.git/objects
+: git fetch --quiet origin --recurse-submodules=no --tags +refs/heads/master:refs/remotes/origin/master +refs/tags/*:refs/tags/* 1>| 2>&1
+
+PID: 7218 START: 1681741685451393280 :: load refs /home/sftas/development/cakechat/bin/.repo/manifests.git
+
+PID: 7218 END: 1681741685451771904 :: load refs /home/sftas/development/cakechat/bin/.repo/manifests.git
+
+PID: 7218 START: 1681741685452251648 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7218 END: 1681741685454138112 :git command /home/sftas/development/cakechat/bin/.repo/manifests.git ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 7218 END: 1681741685454213888 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init, -u, https://github.com/lukalabs/cakechat
+

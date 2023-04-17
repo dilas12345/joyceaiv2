@@ -1,0 +1,16 @@
+# tensorflow and horovod should be presented in a base docker image or installed manually (see requirements-local.txt)
+flask
+numpy
+pandas
+unicodecsv
+requests
+nltk
+scipy
+scikit-learn
+keras
+telepot  # 12.6 is the latest version compatible (via aiohttp) with python 3.5.2 (ubuntu 16.04 default)
+gensim
+cachetools
+# Internal requirements
+gunicorn
+tqdm
